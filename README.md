@@ -1,2 +1,2 @@
 # My_First_Repo
-# This is my first readme.md fle where md stands for markdown.
+# This is my first readme.md file where md stands for markdown.
